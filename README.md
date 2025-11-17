@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="B"C:\Users\DELL\Downloads\ChatGPT Image 17 nov. 2025, 20_40_43.png"" width="80%">
-</p>
-
 # 🧠 Text Emotion Detection App  
 A machine-learning powered **Emotion Classification Web App** built with **Streamlit**, using a trained model (`text_emotion.pkl`) to detect emotions from text such as:
 
@@ -26,17 +22,7 @@ This project uses traditional NLP preprocessing + an ML model (Logistic Regressi
 
 ---
 
-## 🧩 Project Structure
-
-
-├── app.py # Streamlit app
-├── text_emotion.pkl # Trained emotion classifier model
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
----
-
-🎯 Usage
+# 🎯 Usage
 
 Run the Streamlit app:
 
@@ -47,7 +33,7 @@ Then open the app at:
 
 http://localhost:8501/
 
-🧠 How It Works
+# 🧠 How It Works
 1. User enters text
 
 The app takes a sentence/paragraph through a Streamlit form.
@@ -67,7 +53,7 @@ full probability distribution across all emotion classes
 
 Altair renders a bar chart showing confidence for each emotion.
 
-🎨 UI Preview
+# 🎨 UI Preview
 
 Input text area
 
@@ -77,7 +63,7 @@ Emoji display next to predicted emotion
 
 Probability plot
 
-📝 Example
+# 📝 Example
 
 Input:
 
@@ -89,7 +75,7 @@ Output:
 Emotion: joy 😂
 Confidence: 0.97
 
-🛠 Model File
+# 🛠 Model File
 
 The app loads the pre-trained model:
 
@@ -98,7 +84,7 @@ pipe_lr = load("text_emotion.pkl")
 
 Make sure your model file is in the same folder as app.py.
 
-🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome!
 Feel free to:
@@ -111,16 +97,18 @@ enhance UI
 
 deploy to Streamlit Cloud / HuggingFace Spaces
 
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License.
 
-⭐ Support
+# ⭐ Support
 
 If you like this project, consider giving it a star ⭐ on GitHub!
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
+<img width="1536" height="1024" alt="ChatGPT Image 17 nov  2025, 20_40_43" src="https://github.com/user-attachments/assets/54b7e217-bb1c-4ce9-9ecf-87011101b82e" />
+
 ```bash
 git clone https://github.com/meddadaek/Text-Emotion-Detection-App.git
 cd Text-Emotion-Detection-App
