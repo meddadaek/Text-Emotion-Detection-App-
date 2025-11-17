@@ -1,3 +1,7 @@
+<p align='center'>
+    <img width="1536" height="1024" alt="ChatGPT Image 17 nov  2025, 20_40_43" src="https://github.com/user-attachments/assets/54b7e217-bb1c-4ce9-9ecf-87011101b82e" />
+</p>    
+
 # 🧠 Text Emotion Detection App  
 A machine-learning powered **Emotion Classification Web App** built with **Streamlit**, using a trained model (`text_emotion.pkl`) to detect emotions from text such as:
 
@@ -107,7 +111,6 @@ If you like this project, consider giving it a star ⭐ on GitHub!
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
-<img width="1536" height="1024" alt="ChatGPT Image 17 nov  2025, 20_40_43" src="https://github.com/user-attachments/assets/54b7e217-bb1c-4ce9-9ecf-87011101b82e" />
 
 ```bash
 git clone https://github.com/meddadaek/Text-Emotion-Detection-App.git
