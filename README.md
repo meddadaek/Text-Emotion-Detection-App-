@@ -24,14 +24,11 @@ This project uses traditional NLP preprocessing + an ML model (Logistic Regressi
 
 ## 🧩 Project Structure
 
-.
+
 ├── app.py # Streamlit app
 ├── text_emotion.pkl # Trained emotion classifier model
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
-
-yaml
-Copier le code
 
 ---
 
