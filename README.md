@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BANNER_FILE_NAME.png" width="80%">
+  <img src="B"C:\Users\DELL\Downloads\ChatGPT Image 17 nov. 2025, 20_40_43.png"" width="80%">
 </p>
 
 # 🧠 Text Emotion Detection App  
